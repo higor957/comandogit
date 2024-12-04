@@ -6,3 +6,5 @@ git status --- para ver o status da pasta no git
 git add. para adicionar tudo ( rastreado )
 
 git commit -a -m, "Nome do Commit" )
+
+git push -u origin master ( subir para o git)
